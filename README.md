@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1rDRfLlXs9XE8bRuXTrtIT0J_l7jlWRXF" alt="Nombre_de_la_imagen">
+  <img src="https://drive.google.com/uc?export=download&id=1rDRfLlXs9XE8bRuXTrtIT0J_l7jlWRXF" alt="M1">
 </p>
 
 ---
@@ -59,8 +59,9 @@
 
 ---
 
-
-![Profile_Banner_with_text_cutted_bottom](https://drive.google.com/file/d/1rsoQFibPJ4Ef4hauRxRu2J9Ba7sZ2dC0/view?usp=sharing)
+<p align="center">
+  <img src="https://drive.google.com/file/d/1rsoQFibPJ4Ef4hauRxRu2J9Ba7sZ2dC0/view?usp=sharing" alt="M2">
+</p>
 
 ------
 
