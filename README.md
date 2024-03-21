@@ -1,5 +1,6 @@
-![ProdileM](https://drive.google.com/uc?export=download&id=1rDRfLlXs9XE8bRuXTrtIT0J_l7jlWRXF)
-
+<p align="center">
+  <img src="https://drive.google.com/uc?export=download&id=1rDRfLlXs9XE8bRuXTrtIT0J_l7jlWRXF" alt="Nombre_de_la_imagen">
+</p>
 
 ---
 
