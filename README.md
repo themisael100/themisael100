@@ -5,14 +5,7 @@
 
 
 ---
-<details>
-<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
-<br />
-<p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
-</details>
 
-</details>
----
 <details align="middle">
 <summary>Open profile</summary>
 
@@ -48,7 +41,14 @@
 
 <br />
 <br />
+---
+<details>
+<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
+<br />
+<p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
+</details>
 
+</details>
 ---
 <p align="center">
   <img src="https://drive.google.com/uc?export=download&id=1KESTdKJMwvJxzIgj82yChXHu8-pKt-GS" alt="M2">
