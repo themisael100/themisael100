@@ -15,13 +15,13 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 <br>
 
 - A passionate Self-taught Backend developer.
 - I am currently learning Web Development on my own, and also studying software engineering.
-- [link](https://portafolio-web-misael.netlify.app/){:target="_blank"} to personal web portfolio.
+- [link](https://portafolio-web-misael.netlify.app/) to personal web portfolio.
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](#).
 
 <br><br>
