@@ -41,9 +41,9 @@
 
 <br />
 <br />
+
+
 ---
-
-
 
 <details>
 <summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
@@ -53,9 +53,9 @@
 
 </details>
 ---
+
+
 <p align="center">
   <img src="https://drive.google.com/uc?export=download&id=1KESTdKJMwvJxzIgj82yChXHu8-pKt-GS" alt="M2">
 </p>
 
-
-------
