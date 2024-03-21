@@ -33,6 +33,14 @@
 
 <p align="center">
 
+- **Databases**:
+    
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+
+<br>   
+
+
 - **Languages**:
     
   ![C# .NET Core](https://img.shields.io/badge/C%23%20.NET%20Core-%237D3EB0.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -57,6 +65,8 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+    ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+
 
 <br>
 
