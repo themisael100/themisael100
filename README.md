@@ -19,11 +19,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- A passionate Self-taught Backend developer
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- [link](https://portafolio-web-misael.netlify.app/) to personal web portfolio 
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](#)
 
 <br><br>
 
