@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1i7Ze3BlwMG9m6WqnqCFRKZPehyV-iKCP" alt="M1">
+  <img src="https://drive.google.com/file/d/1-UmsUP_ev24PyPwZoDfa6g8uDXsW-gmn/view?usp=drive_link" alt="M1">
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1i7Ze3BlwMG9m6WqnqCFRKZPehyV-iKCP" alt="M2">
+  <img src="https://drive.google.com/file/d/1KESTdKJMwvJxzIgj82yChXHu8-pKt-GS/view?usp=drive_link" alt="M2">
 </p>
 
 ------
