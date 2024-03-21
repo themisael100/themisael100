@@ -41,7 +41,7 @@
 <br>   
 
 
-- **Languages**:
+- **Back-end**:
     
   ![C# .NET Core](https://img.shields.io/badge/C%23%20.NET%20Core-%237D3EB0.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,7 +49,7 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Front-End**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
