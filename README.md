@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=download&id=1-UmsUP_ev24PyPwZoDfa6g8uDXsW-gmn" alt="M1">
 </p>
+
+
+
 ---
 
 <details align="middle">
@@ -58,7 +61,7 @@
 
 ---
 <p align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1KESTdKJMwvJxzIgj82yChXHu8-pKt-GS" alt="Nombre_de_la_imagen">
+  <img src="https://drive.google.com/uc?export=download&id=1KESTdKJMwvJxzIgj82yChXHu8-pKt-GS" alt="M2">
 </p>
 
 
