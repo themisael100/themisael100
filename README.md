@@ -48,7 +48,10 @@
 ---
 
 <details>
-
+<summary align="center"><b>sOBRE MI</b></summary>
+<br />
+<p align="center"> </a>
+</details>
 
 </details>
 
