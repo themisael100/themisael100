@@ -5,13 +5,18 @@
 
 
 ---
+<details>
+<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
+<br />
+<p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
+</details>
 
+</details>
+---
 <details align="middle">
 <summary>Open profile</summary>
 
 <br />
-<br />
-
 <!-- Links to programming languages -->
 <h3 align="center"><b>Languages:</b></h3>
 <p align="center">
@@ -43,16 +48,6 @@
 
 <br />
 <br />
-
----
-
-<details>
-<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
-<br />
-<p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
-</details>
-
-</details>
 
 ---
 <p align="center">
