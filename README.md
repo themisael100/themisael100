@@ -45,7 +45,15 @@
 
 
 
+---
 
+<details>
+<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
+<br />
+<p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
+</details>
+
+</details>
 
 ---
 
