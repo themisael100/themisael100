@@ -1,4 +1,5 @@
-![Profile_Banner_with_text_cutted_top](https://drive.google.com/file/d/1rDRfLlXs9XE8bRuXTrtIT0J_l7jlWRXF/view?usp=sharing)
+![ProdileM](https://drive.google.com/uc?export=download&id=1rDRfLlXs9XE8bRuXTrtIT0J_l7jlWRXF)
+
 
 ---
 
