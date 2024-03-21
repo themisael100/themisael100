@@ -60,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1rsoQFibPJ4Ef4hauRxRu2J9Ba7sZ2dC0/view?usp=sharing" alt="M2">
+  <img src="https://drive.google.com/uc?export=download&id=1rsoQFibPJ4Ef4hauRxRu2J9Ba7sZ2dC0" alt="M2">
 </p>
 
 ------
