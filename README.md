@@ -13,7 +13,13 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<div style="text-align: center;">
+    <picture>
+        <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" alt="About me">
+    </picture>
+    <strong>About me</strong>
+</div>
+
 
 
 
