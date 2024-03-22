@@ -59,7 +59,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a>
-  <a href="https://github.com/bindian0509" target="_blank">
+  <a href="https://github.com/themisael100" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
@@ -78,13 +78,13 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:tuemail@gmail.com" target="_blank">
+  <a href="mailto:misalbryan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/bharatverma/" target="_blank">
+  <a href="https://www.linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/bindian0509" target="_blank">
+  <a href="https://twitter.com" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
