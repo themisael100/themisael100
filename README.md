@@ -27,9 +27,9 @@
 - **Databases**:
     
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+</p>
 
-
-<br>   
+</p>   
 
 
 - **Back-end**:
