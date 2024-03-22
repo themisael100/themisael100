@@ -10,25 +10,18 @@
 
 <br>
 
-
-
-	
-<div style="text-align: center;">
-    <picture>
-        <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" alt="About me">
-    </picture>
-    <strong>About me</strong>
-</div>
-
+ ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
 
 <br>
 
-- A passionate Self-taught Backend developer.
-- I am currently learning Web Development on my own, and also studying software engineering.
-- [link](https://portafolio-web-misael.netlify.app/) to personal web portfolio.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](#).
+<pre>
+💻 A passionate Self-taught Backend developer.
+📚 I am currently learning Web Development on my own, and also studying software engineering.
+📝 [link](https://portafolio-web-misael.netlify.app/) to personal web portfolio.
+🔭 I’m currently open for an Intern or a new job opportunity, this is [my resume](#).
+</pre>
 
 <br><br>
 
