@@ -8,14 +8,6 @@
 </p>
 
 
-<br>
-
- ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
-
-<br>
-
 <pre>
 💻 A passionate Self-taught Backend developer.
 📚 I am currently learning Web Development on my own, and also studying software engineering.
