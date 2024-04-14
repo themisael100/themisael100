@@ -1,6 +1,6 @@
-   <div align=center>
+<!--  <div align=center>
         <img src="https://drive.google.com/uc?export=download&id=1eZ2zH3x1NkC67shvGAQ2lEi-koeBIgcN" alt="Profile" height="200">
-    </div>
+    </div>   -->
 <h1 align="center"><b>Hi , I'm Bryan Misael </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
