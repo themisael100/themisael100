@@ -11,8 +11,8 @@
 <pre>
 💻 A passionate Self-taught Backend developer.
 📚 I am currently learning Web Development on my own, and also studying software engineering.
-📝 <a href="https://portafolio-web-misael.netlify.app/" target="_blank">Link</a> to personal web portfolio.
-🔭 I’m currently open for an Intern or a new job opportunity, this is <a href="#">my resume</a>.
+📝 <a href="https://misael.netlify.app/" target="_blank">Link</a> to personal web portfolio.
+🔭 I’m currently open for an Intern or a new job opportunity, this is <a href="https://drive.google.com/file/d/1ix9RObj5eW9is35M-Fy2E3FmPh-dDIP4/view?usp=sharing">my resume</a>.
 </pre>
 
 <br>
