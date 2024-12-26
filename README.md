@@ -27,9 +27,10 @@
 <h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://www.microsoft.com/sql-server" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge">
   </a>
 </p>
+
 
 <h3 align="center">Back-end</h3>
 <p align="center">
