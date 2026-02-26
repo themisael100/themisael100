@@ -25,19 +25,22 @@
 <div align="center">
 
 <a href="https://misael.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/%20Portafolio-misael.netlify.app-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Portafolio-misael.netlify.app-111111?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://drive.google.com/file/d/1ix9RObj5eW9is35M-Fy2E3FmPh-dDIP4/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/%20Currículum-Ver%20CV-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  <img src="https://img.shields.io/badge/Currículum-Ver%20CV-333333?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:misalbryan@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/%20Email-softwaremisael@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:softwaremisael@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-softwaremisael@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/%20LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
